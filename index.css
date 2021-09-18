@@ -25,8 +25,8 @@ width:50%;
 	height: 10%;
 	padding: 30px;
 	display:inline-block;
-	border-bottom-left-radius: 30px;
-	border-bottom-right-radius: 30px;
+	/*border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;*/
 }
 body, html {    
     margin: 0 !important;

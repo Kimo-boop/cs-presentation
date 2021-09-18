@@ -16,3 +16,17 @@ width:50%;
 .two {
 	border-color: black;
 }
+.image {
+	border-radius: 25px;
+}
+.header {
+	background-color: #242424;
+	width: 100%;
+	height: 25%;
+	padding: 60px;
+	display:inline-block;
+}
+body, html {    
+    margin: 0 !important;
+    padding: 0 !important;
+}

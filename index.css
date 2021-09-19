@@ -37,13 +37,15 @@ body, html {
   color: white;
   padding: 30px;
   font-size: 16px;
-  border: 1px solid black;
+  border-radius: 10px;
+  border: none;
   cursor: pointer;
 }
 
 
 .dropbtn:hover, .dropbtn:focus {
   background-color: #2980B9;
+  border-radius: 10px;
 }
 
 .dropdown {
@@ -58,6 +60,7 @@ body, html {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  border-radius: 10px;
 }
 
 .dropdown-content a {
@@ -67,6 +70,8 @@ body, html {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd}
+.dropdown-content a:hover {background-color: #ddd;
+border-radius: 10px;
+}
 
 .show {display:block;}

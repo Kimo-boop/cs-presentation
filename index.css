@@ -79,3 +79,14 @@ border-radius: 10px;
 }
 
 .show {display:block;}
+
+.Inhaltsverzeichnis {
+	line-height: 170%;
+} 
+.bold-text {
+	font-weight: bold;
+	border-bottom: 2px solid black;
+	width: 40%;
+	margin-bottom: 5px ;
+}
+

@@ -97,4 +97,24 @@ border-radius: 10px;
 }
 .2 {
 
+}
+
+.TTD2 { 
+line-height: 160%;
+font-size: 32px;
+width: 900px;
+} 
+
+.image2 {
+width: 44%;
+border-radius: 25px;
+ align-items: center;
+}
+
+.image3 {
+width: 40%;
+border-radius: 25px;
+}
+
+
 
